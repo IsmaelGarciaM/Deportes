@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjeDeportes</string>
+    <string name="txvHeader">Selecciona los deportes que te gustan y pulsa \'Aceptar\'</string>
+    <string name="btnOk">Aceptar</string>
+</resources>
